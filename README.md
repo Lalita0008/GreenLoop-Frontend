@@ -108,20 +108,6 @@ Includes:
 
 ---
 
-## 🖼️ Application Preview
-
-### Home Page
-
-### Features Page
-
-### Dashboard
-
-### Contect
-
-
-
-
----
 
 ## 🛠️ Technology Stack
 
